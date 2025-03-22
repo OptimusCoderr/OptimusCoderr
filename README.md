@@ -1,5 +1,5 @@
-# 💫About Me :
-A passionate AI & Robotics Engineer from Nigeria
+# 💫About Me : A passionate AI & Robotics Engineer from Nigeria
+
 🌱 I’m currently learning HuggingFace Transformers, Generative AI, Computer Vision
 
 👯 I’m looking to collaborate on Nigerian License Plate Detection System
